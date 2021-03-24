@@ -61,7 +61,7 @@ button:hover {
     background-color: white;
     border-radius: 5px;
     margin-top: 20px;
-    padding: 10px, 25px;
+    padding: 10px 25px;
     height: 100%;
 }
 
@@ -89,4 +89,8 @@ li {
 
 .clearAll:hover {
     color: lightcoral;
+}
+
+.todo-item {
+    flex-grow: 1;
 }
